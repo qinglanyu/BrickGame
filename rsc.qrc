@@ -1,0 +1,77 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>img/1.png</file>
+        <file>img/Boy1.png</file>
+        <file>img/Boy2.png</file>
+        <file>img/Casing_Black.png</file>
+        <file>img/Casing_Blue.png</file>
+        <file>img/Casing_Green.png</file>
+        <file>img/Casing_Pink.png</file>
+        <file>img/Casing_Yellow.png</file>
+        <file>img/ControlBtnNormalBlue_Yellow.png</file>
+        <file>img/ControlBtnNormalYellow_Black.png</file>
+        <file>img/ControlBtnNormalYellow_Blue.png</file>
+        <file>img/ControlBtnNormalYellow_Green.png</file>
+        <file>img/ControlBtnNormalYellow_Pink.png</file>
+        <file>img/ControlBtnPressedBlue_Yellow.png</file>
+        <file>img/ControlBtnPressedYellow_Black.png</file>
+        <file>img/ControlBtnPressedYellow_Blue.png</file>
+        <file>img/ControlBtnPressedYellow_Green.png</file>
+        <file>img/ControlBtnPressedYellow_Pink.png</file>
+        <file>img/dot1.png</file>
+        <file>img/dot2.png</file>
+        <file>img/EscToExit_back.png</file>
+        <file>img/EscToExit_Text.png</file>
+        <file>img/gift.png</file>
+        <file>img/Grid.png</file>
+        <file>img/ic-arrows.png</file>
+        <file>img/LeaderBoard.png</file>
+        <file>img/Music.png</file>
+        <file>img/PauseImage.png</file>
+        <file>img/Rate.png</file>
+        <file>img/RePlayBtn.png</file>
+        <file>img/SelectMenu.png</file>
+        <file>img/SettingBtnNormalBlue_Green.png</file>
+        <file>img/SettingBtnNormalGreen_Black.png</file>
+        <file>img/SettingBtnNormalGreen_Blue.png</file>
+        <file>img/SettingBtnNormalGreen_Pink.png</file>
+        <file>img/SettingBtnNormalGreen_Yellow.png</file>
+        <file>img/SettingBtnPressedBlue_Green.png</file>
+        <file>img/SettingBtnPressedGreen_Black.png</file>
+        <file>img/SettingBtnPressedGreen_Blue.png</file>
+        <file>img/SettingBtnPressedGreen_Pink.png</file>
+        <file>img/SettingBtnPressedGreen_Yellow.png</file>
+        <file>img/ShareBtn.png</file>
+        <file>img/SignIn.png</file>
+        <file>img/SignOut.png</file>
+        <file>img/goon.png</file>
+        <file>img/mute.png</file>
+        <file>img/sound.png</file>
+        <file>img/2.png</file>
+        <file>img/3.png</file>
+        <file>img/4.png</file>
+        <file>img/5.png</file>
+    </qresource>
+    <qresource prefix="/font">
+        <file>font/DS-DIGI-1.ttf</file>
+        <file>font/digital-7.ttf</file>
+        <file>font/digital-7 (italic).ttf</file>
+    </qresource>
+    <qresource prefix="/audio">
+        <file>Audio/BackgroundMusic.mp3</file>
+        <file>Audio/BulletEnemy.mp3</file>
+        <file>Audio/ButtonClick.mp3</file>
+        <file>Audio/ExpolosionEnemy.mp3</file>
+        <file>Audio/ExpolosionPlayer.mp3</file>
+        <file>Audio/GameStart.mp3</file>
+        <file>Audio/GamOver.mp3</file>
+        <file>Audio/GridUp.mp3</file>
+        <file>Audio/HighSpeed.mp3</file>
+        <file>Audio/Land.mp3</file>
+        <file>Audio/LineCleared.mp3</file>
+        <file>Audio/move.mp3</file>
+        <file>Audio/Rotate.mp3</file>
+        <file>Audio/Warning.mp3</file>
+        <file>Audio/Win.mp3</file>
+    </qresource>
+</RCC>
