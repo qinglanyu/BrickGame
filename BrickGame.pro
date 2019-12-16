@@ -47,5 +47,7 @@ else: unix:!android: target.path = /opt/$${TARGET}/bin
 RESOURCES += \
     rsc.qrc
 
+android{
 DISTFILES += \
     android-sources/AndroidManifest.xml
+}
