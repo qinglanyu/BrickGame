@@ -57,8 +57,6 @@ CWidget::CWidget(int w, int h, dvcScrType scrType, qreal l, qreal t, QWidget *pa
 
     InitGameMgrPos();
 
-    //DrawBackground();
-
     SetTheme(0);
     slotRefresh();
     slotPlayAudio(ai_bgm);

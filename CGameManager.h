@@ -3,6 +3,7 @@
 
 #include <QObject>
 #include <QMutex>
+#include <map>
 
 #include "CGame.h"
 
@@ -94,6 +95,7 @@ private:
     int m_gmbdHeight;
 
     CGame *m_pGame;
+    std::map<int, CGame*> m_allGames;
 
     QMutex m_mutex;
 };

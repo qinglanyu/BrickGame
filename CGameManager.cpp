@@ -44,6 +44,12 @@ CGameManager::~CGameManager()
         delete m_pPreviewBoard;
         m_pPreviewBoard = nullptr;
     }
+
+    if(m_pGame)
+    {
+        delete m_pGame;
+        m_pGame = nullptr;
+    }
 }
 
 bool CGameManager::InitGameBoard()
